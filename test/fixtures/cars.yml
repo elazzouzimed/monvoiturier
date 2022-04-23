@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  make: MyString
+  model: MyString
+  year: 1
+  transmission: MyString
+  licence_plate: MyString
+  energy: MyString
+  user: one
+
+two:
+  make: MyString
+  model: MyString
+  year: 1
+  transmission: MyString
+  licence_plate: MyString
+  energy: MyString
+  user: two
